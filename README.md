@@ -5,7 +5,7 @@
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');print('Welcome+to+my+Github');SELECT+*+FROM+people+WHERE+name+'Gabi''" alt="Typing SVG" /></a>></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFA4C7&width=435&lines=print+('Hi+there');SELECT *FROM people WHERE name'Gabi'" alt="Typing SVG" /></a>
 
 
 <div>
@@ -31,7 +31,7 @@
 
 ## 🛠️ Working with: 
 
-  <table align="center">
+  <table>
     <tr>
         <td align="center">
             <img style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-power-bi-50.png" alt="PowerBI-logo"/>
@@ -46,12 +46,12 @@
             <br>SQL
         </td>
         <td align="center">
-            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-html-5-50.png" alt="javascript-logo"/>
+            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-html-5-50.png" alt="html-logo"/>
             <br>HTML
         </td>
          </td>
         <td align="center">
-            <img  style="width: 100%; max-width: 300px;" scr=" " alt="sql-logo"/>
+            <img  style="width: 60%; max-width: 300px;" src="assets/imagens/icons8-css3-100.png" alt="css-logo"/>
             <br>CSS
         </td>
     </tr>
