@@ -11,13 +11,13 @@
 <div>
    <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
 
-- 🎮 Passionate about game development, I love creating immersive worlds and interactive experiences.
+-  📈Passionate about data, I love the possibility to look at the past and predict the future.
 
-- 💻 I work as a full-stack developer, with experience in both **front-end** and **back-end** !
+- 💻 I work as a Contract Management Intern, where I have the oportunity to creat analyses based on data from my area !
 
-- 🎓 Currently studying **Desenvolvimento de Software Multiplataforma** at FATEC.
+- 🎓 Currently studying **Computer Science** at FMU.
 
-- 🌱  I'm also interested in working in the **data field** and exploring opportunities in data analysis!
+- 🌱  I'm also interested in working in  **RPA Automation Projects** and exploring opportunities in that area!
 
 - ✨ **Pronouns:** She/Her
 </div>
@@ -34,16 +34,12 @@
   <table align="center">
     <tr>
         <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/1f7a1509-5ce4-4688-979f-b00ad9a6954c" alt="php-logo"/>
-            <br>PHP
+            <img style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-power-bi-50.png" alt="PowerBI-logo"/>
+            <br>Power BI
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;"scr="icons8-power" alt="csharp-logo"/>
-            <br>C#
-        </td>
-       <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/c0a5f3a6-9e44-4551-aa95-2311c1422167" alt="cplus-logo"/>
-            <br>C++
+            <img style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-python-50.png" alt="Python-logo"/>
+            <br>Python
         </td>
         <td align="center">
             <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/b53324b7-7f74-46e6-a5c0-635e4e5c1849" alt="javascript-logo"/>
@@ -51,7 +47,7 @@
         </td>
          </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
+            <img  style="width: 60%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
             <br>SQL
         </td>
     </tr>
@@ -59,7 +55,7 @@
 
 
 ##  📊 Stats  
-<div align="center">
+<div align="left">
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabirodrigues-py&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
 
  
@@ -68,7 +64,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Gabirodrigues-py&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
   </a>
@@ -77,11 +73,10 @@
 
 
 ## 📲 Connect with me:
-<div  align="center">
+<div  align="left">
 <a href="https://www.linkedin.com/in/gabriella-pereira-rodrigues-745747293/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
 </a>
-
   <a href="gabirodrigues.sp2@gmail.com" target="_blank" style="margin-right: 10px;">
      <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
 </a>
@@ -89,6 +84,6 @@
 
 <br> 
 
-<div  align="center">
+<div  align="left">
 <img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/>
 </div>
