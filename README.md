@@ -42,13 +42,17 @@
             <br>Python
         </td>
         <td align="center">
-            <img  style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/b53324b7-7f74-46e6-a5c0-635e4e5c1849" alt="javascript-logo"/>
-            <br>Javascript
+            <img  style="width: 60%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
+            <br>SQL
+        </td>
+        <td align="center">
+            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-html-5-50.png" alt="javascript-logo"/>
+            <br>HTML
         </td>
          </td>
         <td align="center">
-            <img  style="width: 60%; max-width: 300px;" src="https://github.com/user-attachments/assets/05414f97-0364-47b2-99ba-fbe01086ecfe" alt="sql-logo"/>
-            <br>SQL
+            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-css3-50.png" alt="sql-logo"/>
+            <br>CSS
         </td>
     </tr>
 </table>
