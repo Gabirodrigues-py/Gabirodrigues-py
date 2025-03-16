@@ -1,11 +1,11 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-![github-header-image (3)](header_github.png)
+<!-- ![github-header-image (3)](header_github.png) -->
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=FFA4C7&width=435&lines=print+('Hi+there');SELECT *FROM people WHERE name'Gabi'" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a>
 
 
 <div>
@@ -60,7 +60,7 @@
 
 ##  📊 Stats  
 <div align="left">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabirodrigues-py&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+<!-- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabirodrigues-py&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg"> -->
 
  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
