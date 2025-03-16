@@ -1,15 +1,14 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<img src="assets/imagens/Gabriella Rodrigues DATA ANALISYS.png" alt="banner Gabriella Rodrigues">
+<img src="assets/imagens/Gabriella Rodrigues DATA ANALITICS.png" alt="banner Gabriella Rodrigues">
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a> 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a></a>
 
 <div>
-   <img align="right" alt="lariiscriis" width="230" height="230" src=>
+  <img align="right" src="assets/imagens/Computer 276x276.png">
 
 -  📈Passionate about data, I love the possibility to look at the past and predict the future.
 
@@ -19,7 +18,9 @@
 
 - 🌱  I'm also interested in working in  **RPA Automation Projects** and exploring opportunities in that area!
 
-- ✨ **Pronouns:** She/Her
+- ✨ Prounouns: She / Her
+
+
 </div>
 
 <br>
@@ -87,7 +88,6 @@
  </div>
 
 <br> 
-
-<div  align="left">
-<img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/>
-</div>
+<!-- <div  align="left"> -->
+<!-- <img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/> -->
+<!-- </div> -->
