@@ -1,15 +1,15 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<!-- ![github-header-image (3)](header_github.png) -->
+<img src="assets/imagens/Gabriella Rodrigues DATA ANALISYS.png" alt="banner Gabriella Rodrigues">
  
   <br>
   
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a> 
 
 
 <div>
-   <img align="right" alt="lariiscriis" width="230" height="230" src="https://i.pinimg.com/474x/81/5e/ef/815eefdb69dcbc97214ff20d33b1e319.jpg">
+   <img align="right" alt="lariiscriis" width="230" height="230" src=>
 
 -  📈Passionate about data, I love the possibility to look at the past and predict the future.
 
