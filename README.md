@@ -1,12 +1,10 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<img src="assets/imagens/Gabriella Rodrigues DATA ANALITICS.png" alt="banner Gabriella Rodrigues">
+<img src="assets/imagens/Gabriella Rodrigues DATA ANALISYS.png" alt="banner Gabriella Rodrigues">
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a></a>
-
 <div>
   <img align="right" src="assets/imagens/Computer 276x276.png">
 
@@ -88,6 +86,6 @@
  </div>
 
 <br> 
-<!-- <div  align="left"> -->
-<!-- <img width="600"src="https://i.pinimg.com/originals/f6/29/36/f629365f298cad35688f34b4d456945f.gif"/> -->
-<!-- </div> -->
+<div  align="left"> 
+<img width="400" src="https://c.tenor.com/aQWK4otZIzgAAAAC/keyboard.gif">
+</div> 
