@@ -51,7 +51,7 @@
         </td>
          </td>
         <td align="center">
-            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-css3-50.png" alt="sql-logo"/>
+            <img  style="width: 100%; max-width: 300px;" scr=" " alt="sql-logo"/>
             <br>CSS
         </td>
     </tr>
