@@ -5,7 +5,7 @@
  
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFA4C7&width=435&lines=print('Hi+there');SELECT *FROM people WHERE name 'Gab'" alt="Typing SVG" /></a>></a> -->
 
 
 <div>
