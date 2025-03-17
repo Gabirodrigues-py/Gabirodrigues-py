@@ -1,7 +1,7 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<img src="assets/imagens/Gabriella Rodrigues DATA ANALISYS.png" alt="banner Gabriella Rodrigues">
+<img src="assets/imagens/Gabriella Rodrigues DATA .jpg" alt="banner Gabriella Rodrigues">
  
   <br>
   
@@ -59,7 +59,7 @@
 
 ##  📊 Stats  
 <div align="left">
-<!-- <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabirodrigues-py&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg"> -->
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabirodrigues-py&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg"> 
 
  
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true&Background=00000000&Text=000&Title=FFA4C7&Ring=FFA4C7&Border=FFA4C7">
@@ -87,5 +87,6 @@
 
 <br> 
 <div  align="left"> 
-<img width="400" src="https://c.tenor.com/aQWK4otZIzgAAAAC/keyboard.gif">
+<img width="315" src="https://c.tenor.com/aQWK4otZIzgAAAAC/keyboard.gif">
+<img width="315" src="https://c.tenor.com/aQWK4otZIzgAAAAC/keyboard.gif">
 </div> 
