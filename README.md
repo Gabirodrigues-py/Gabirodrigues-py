@@ -1,7 +1,7 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<img src="assets/imagens/Gabriella Rodrigues DATA .jpg" alt="banner Gabriella Rodrigues">
+<img src="/imagens/Gabriella Rodrigues DATA .jpg" alt="banner Gabriella Rodrigues">
  
   <br>
   
