@@ -1,12 +1,12 @@
  ##  <div align="center"> Hi! I’m `@Gabirodrigues.py`, welcome to my `GitHub profile`</div>
 
 
-<img src="/imagens/Gabriella Rodrigues DATA .jpg" alt="banner Gabriella Rodrigues">
+<img src="assets1/imagens/Gabriella Rodrigues DATA .jpg" alt="banner Gabriella Rodrigues">
  
   <br>
   
 <div>
-  <img align="right" src="assets/imagens/Computer 276x276.png">
+  <img align="right" src="assets1/imagens/Computer 276x276.png">
 
 -  📈Passionate about data, I love the possibility to look at the past and predict the future.
 
@@ -33,11 +33,11 @@
   <table>
     <tr>
         <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-power-bi-50.png" alt="PowerBI-logo"/>
+            <img style="width: 100%; max-width: 300px;" src="assets1/imagens/icons8-power-bi-50.png" alt="PowerBI-logo"/>
             <br>Power BI
         </td>
         <td align="center">
-            <img style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-python-50.png" alt="Python-logo"/>
+            <img style="width: 100%; max-width: 300px;" src="assets1/imagens/icons8-python-50.png" alt="Python-logo"/>
             <br>Python
         </td>
         <td align="center">
@@ -45,12 +45,12 @@
             <br>SQL
         </td>
         <td align="center">
-            <img  style="width: 100%; max-width: 300px;" src="assets/imagens/icons8-html-5-50.png" alt="html-logo"/>
+            <img  style="width: 100%; max-width: 300px;" src="assets1/imagens/icons8-html-5-50.png" alt="html-logo"/>
             <br>HTML
         </td>
          </td>
         <td align="center">
-            <img  style="width: 60%; max-width: 300px;" src="assets/imagens/icons8-css3-100.png" alt="css-logo"/>
+            <img  style="width: 60%; max-width: 300px;" src="assets1/imagens/icons8-css3-100.png" alt="css-logo"/>
             <br>CSS
         </td>
     </tr>
